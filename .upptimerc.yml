@@ -21,3 +21,66 @@ status-website:
       href: https://veloren.neonlife.xyz
     - title: Discord
       href: https://discord.gg/Gc9qzfMjdf
+      
+i18n:
+  activeIncidents: Incidentes Activos
+  allSystemsOperational: Todos los sistemas están operativos
+  incidentReport: "Informe del incidente #$NUMBER →"
+  activeIncidentSummary: Abierto el $DATE con $POSTS publicaciones
+  incidentTitle: Detalles del Incidente $NUMBER
+  incidentDetails: Detalles del Incidente
+  incidentFixed: Arreglado
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto el
+  incidentClosedAt: Cerrado el
+  incidentViewOnGitHub: Ver y suscribirse en GitHub
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Volver a todos los incidentes
+  pastIncidents: Incidentes Pasados
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS publicaciones
+  liveStatus: Estado en vivo
+  overallUptime: "Tiempo total de actividad: $UPTIME"
+  overallUptimeTitle: Tiempo total de actividad
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta de 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: Arriba
+  down: Abajo
+  degraded: Degradado
+  ms: ms
+  loading: Cargando
+  navGitHub: GitHub
+  footer: Copyright &copy; 2024 Neon Life
+  rateLimitExceededTitle: Límite de solicitudes excedido
+  rateLimitExceededIntro: Has superado el número de solicitudes que puedes hacer en una hora, por lo que tendrás que esperar antes de acceder a este sitio nuevamente. Alternativamente, puedes agregar un Token de Acceso Personal de GitHub para seguir utilizando este sitio web.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+  rateLimitExceededErrorMeaning: Este sitio usa la API de GitHub para acceder a los datos en tiempo real sobre el estado de nuestros sitios web. Por defecto, GitHub permite a cada dirección IP 60 solicitudes por hora, lo que ya has consumido.
+  rateLimitExceededErrorHowCanFix: ¿Cómo puedo solucionarlo?
+  rateLimitExceededErrorFix: Puedes esperar una hora más y el límite de tu dirección IP será restaurado. Alternativamente, puedes agregar tu Token de Acceso Personal de GitHub, lo que te da 5,000 solicitudes adicionales por hora.
+  rateLimitExceededGeneratePAT: Aprende cómo generar un Token de Acceso Personal
+  rateLimitExceededHasSet: Tienes un token de acceso personal configurado.
+  rateLimitExceededRemoveToken: Eliminar token
+  rateLimitExceededGitHubPAT: Token de Acceso Personal de GitHub
+  rateLimitExceededCopyPastePAT: Copia y pega tu token
+  rateLimitExceededSaveToken: Guardar token
+  errorTitle: Ocurrió un error
+  errorIntro: Ocurrió un error al intentar obtener los últimos detalles del estado.
+  errorText: Puedes intentar nuevamente en unos momentos.
+  errorHome: Ir a la página de inicio
+  pastScheduledMaintenance: Mantenimiento programado pasado
+  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenanceSummaryStarted: Comenzó el $DATE durante $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Comienza el $DATE durante $DURATION minutos
+  startedAt: Comenzó el
+  startsAt: Comienza el
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Completado
+  incidentScheduled: Programado
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1a
+  durationAll: todo
+  locale: es-CL
