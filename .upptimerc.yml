@@ -1,6 +1,5 @@
-# Change these first
-owner: neonliferoleplay  # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: neonliferoleplay
+repo: status
 
 sites:
   - name: Neon Veloren Server
@@ -11,10 +10,7 @@ sites:
     url: https://veloren.neonlife.xyz
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.neonlife.xyz
-  # baseUrl: /your-repo-name
   logoUrl: https://r2.fivemanage.com/pub/eq0fvbwml7iv.png
   name: Neon Veloren Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
