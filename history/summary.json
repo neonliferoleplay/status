@@ -22,7 +22,7 @@
     "url": "https://veloren.neonlife.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/veloren.neonlife.xyz.ico",
     "slug": "neon-veloren-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 443,
     "timeMonth": 422,
     "timeYear": 422,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-24": 0
+    }
   }
 ]
