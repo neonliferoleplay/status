@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 127,
+    "time": 126,
     "timeDay": 112,
     "timeWeek": 125,
     "timeMonth": 128,
-    "timeYear": 127,
+    "timeYear": 126,
     "dailyMinutesDown": {
       "2024-12-07": 94
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/veloren.neonlife.xyz.ico",
     "slug": "neon-veloren-web",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
-    "time": 430,
-    "timeDay": 377,
-    "timeWeek": 414,
-    "timeMonth": 431,
-    "timeYear": 430,
+    "uptimeYear": "99.88%",
+    "time": 429,
+    "timeDay": 382,
+    "timeWeek": 412,
+    "timeMonth": 426,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2024-12-07": 93,
       "2024-11-24": 15
