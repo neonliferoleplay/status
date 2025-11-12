@@ -4,7 +4,7 @@
     "url": "veloren.neonlife.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "neon-veloren-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
     "uptimeDay": "44.24%",
     "uptimeWeek": "47.02%",
@@ -44,7 +44,7 @@
     "timeMonth": 0,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2025-11-12": 677,
+      "2025-11-12": 692,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
