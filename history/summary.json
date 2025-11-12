@@ -4,26 +4,26 @@
     "url": "veloren.neonlife.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "neon-veloren-server",
-    "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "45.30%",
-    "uptimeWeek": "47.20%",
-    "uptimeMonth": "87.19%",
-    "uptimeYear": "98.92%",
+    "status": "up",
+    "uptime": "98.93%",
+    "uptimeDay": "44.73%",
+    "uptimeWeek": "47.09%",
+    "uptimeMonth": "87.21%",
+    "uptimeYear": "98.93%",
     "time": 167,
     "timeDay": 1866,
     "timeWeek": 1738,
     "timeMonth": 1795,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-11-12": 740,
+      "2025-11-12": 751,
       "2025-11-11": 644,
       "2025-11-10": 700,
       "2025-11-09": 557,
       "2025-11-08": 911,
       "2025-11-07": 714,
       "2025-11-06": 891,
-      "2025-11-05": 456
+      "2025-11-05": 437
     }
   },
   {
@@ -43,7 +43,7 @@
     "timeMonth": 0,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2025-11-12": 1171,
+      "2025-11-12": 1181,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
