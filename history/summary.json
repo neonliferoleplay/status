@@ -6,15 +6,15 @@
     "slug": "neon-veloren-server",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "43.50%",
-    "uptimeWeek": "47.11%",
-    "uptimeMonth": "86.55%",
-    "uptimeYear": "98.88%",
-    "time": 258,
+    "uptimeDay": "44.09%",
+    "uptimeWeek": "47.17%",
+    "uptimeMonth": "86.65%",
+    "uptimeYear": "98.89%",
+    "time": 259,
     "timeDay": 1639,
     "timeWeek": 1752,
     "timeMonth": 1727,
-    "timeYear": 265,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2025-11-21": 365,
       "2025-11-20": 787,
@@ -24,7 +24,7 @@
       "2025-11-16": 484,
       "2025-11-15": 722,
       "2025-11-14": 853,
-      "2025-11-13": 242
+      "2025-11-13": 201
     }
   },
   {
@@ -37,14 +37,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.52%",
+    "uptimeYear": "38.51%",
     "time": 426,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2025-11-21": 443,
+      "2025-11-21": 459,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
