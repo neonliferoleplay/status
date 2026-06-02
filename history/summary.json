@@ -5,12 +5,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "neon-veloren-server",
     "status": "down",
-    "uptime": "70.01%",
+    "uptime": "69.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.79%",
-    "time": 559,
+    "uptimeYear": "53.51%",
+    "time": 562,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -106,7 +106,8 @@
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
-      "2026-06-01": 219,
+      "2026-06-02": 215,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -197,7 +198,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/veloren.neonlife.xyz.ico",
     "slug": "neon-veloren-web",
     "status": "down",
-    "uptime": "25.99%",
+    "uptime": "25.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -208,7 +209,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-01": 219,
+      "2026-06-02": 216,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -571,8 +573,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   }
 ]
